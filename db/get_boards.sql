@@ -1,1 +1,1 @@
-select * from boards
+select * from board
